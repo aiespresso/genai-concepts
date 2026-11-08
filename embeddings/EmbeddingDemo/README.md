@@ -1,6 +1,6 @@
 # AI Espresso — Text Embeddings Demo
 
-[![Embeddings - From Text to Vector](./assets/From Text to Vectors.png)](https://youtu.be/ID4Flt5HvrA)
+[![Embeddings - From Text to Vector](./assets/From%20Text%20to%20Vectors.png)](https://youtu.be/ID4Flt5HvrA)
 
 This repository contains the C# sample code for [Embeddings - From Text to Vector](https://youtu.be/ID4Flt5HvrA) on [AI Espresso (@aiespresso)](https://www.youtube.com/@aiespresso).
 
