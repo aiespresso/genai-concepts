@@ -1,6 +1,6 @@
 # AI Espresso — Text Embeddings Demo
 
-This is the sample code for the "What is Embedding? From Text to Vector" video of the YouTube channel @aiespresso.
+This is the sample code for the "**What is Embedding? From Text to Vector**" video of the YouTube channel **@aiespresso**.
 
 Search four short helpdesk documents with a text embedding and cosine similarity.
 The original example compares an exact `laptop` keyword filter with semantic ranking.
